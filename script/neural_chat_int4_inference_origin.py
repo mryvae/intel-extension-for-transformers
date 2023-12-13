@@ -9,8 +9,8 @@ inputs = tokenizer(prompt, return_tensors="pt").input_ids
 streamer = TextStreamer(tokenizer)
 
 model = AutoModelForCausalLM.from_pretrained(model_name, load_in_4bit=True)
-profiler = cProfile.Profile()
-profiler.enable()
+# profiler = cProfile.Profile()
+# profiler.enable()
 outputs = model.generate(inputs, streamer=streamer, max_new_tokens=300)
-profiler.disable()
-profiler.dump_stats("profile_data_int4_runtime.prof")
+# profiler.disable()
+# profiler.dump_stats("profile_data_int4_runtime.prof")
