@@ -28,7 +28,7 @@ if not SKIP_RUNTIME:
     cpu_flags = get_cpu_info()['flags']
 
 
-    CMAKE_BUILD_TYPE = os.environ.get("CMAKE_BUILD_TYPE", "Release")
+    CMAKE_BUILD_TYPE = os.environ.get("CMAKE_BUILD_TYPE", "RelWithDebInfo")
     """ Whether to build with -O0 / -O3 / -g; could be one of Debug / Release / RelWithDebInfo; default to Release """
 
     CMAKE_GENERATOR = os.environ.get("CMAKE_GENERATOR", "Ninja")
