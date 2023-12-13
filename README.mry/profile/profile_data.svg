@@ -1,0 +1,1093 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1200" height="408"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+    .func_g:hover { stroke:black; stroke-width:0.5; cursor:pointer; }
+</style>
+<svg class="func_g" x="0.0" y="168" width="1199.0184915747645" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 100.00% (1 1 9.8647e-05 22.958247052)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="0.006248988017172673" y="144" width="1199.00708634708" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 100.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="0.2504871823435225" y="120" width="1198.655339298609" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 99.97% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="0.2504871823435225" y="96" width="1197.144503265944" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 99.85% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="0.2504871823435225" y="72" width="1197.1299541783626" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 99.84% (10710 30 0.10533003900000003 22.922116352000003)</title>
+    <rect height="100%" width="100%" fill="rgb(44, 255, 210)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="0.2504871823435225" y="48" width="224.32134836702772" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/intel_extension_for_transformers/llm/quantization/nn/modules.py:95:forward 18.78% (797 797 0.03590161218120519 4.310752891075502)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="0.2504871823435225" y="24" width="217.7528142478149" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/_ops.py:687:__call__ 18.23% (797 797 0.002359310335177588 4.185086469985204)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__call__</text>
+</g></svg>
+<svg class="func_g" x="0.2504871823435225" y="0" width="217.6294940298922" height="23"><g>
+    <title>~:0:&lt;built-in method torch._ops.weight_only_jblasop.qbits_linear&gt; 18.22% (797 797 4.182727159650026 4.182727159650026)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._ops.weight_only_jblasop.qbits_linear&gt;</text>
+</g></svg>
+<svg class="func_g" x="219.304403636269" y="24" width="2.47608499133771" height="23"><g>
+    <title>~:0:&lt;built-in method torch.zeros&gt; 0.29% (797 797 0.06650299021655397 0.06650299021655397)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.zeros&gt;</text>
+</g></svg>
+<svg class="func_g" x="225.57183554937123" y="48" width="2.191943260381649" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/activation.py:681:forward 0.27% (198 198 0.0010216408125685863 0.061066910603721)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="225.57183554937123" y="24" width="2.138542499249802" height="23"><g>
+    <title>~:0:&lt;built-in method torch._C._nn.gelu&gt; 0.26% (198 198 0.06004526979115241 0.06004526979115241)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._C._nn.gelu&gt;</text>
+</g></svg>
+<svg class="func_g" x="229.04688493233607" y="48" width="1.5414772528142233" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/normalization.py:195:forward 0.21% (402 402 0.003167757859798098 0.048622469617595865)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="229.04688493233607" y="24" width="1.3325520166179925" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/functional.py:2528:layer_norm 0.19% (402 402 0.0044353442010932045 0.04462540022102675)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">layer_norm</text>
+</g></svg>
+<svg class="func_g" x="229.14899965913514" y="0" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method torch.layer_norm&gt; 0.17% (402 402 0.03823644018654338 0.03823644018654338)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.layer_norm&gt;</text>
+</g></svg>
+<svg class="func_g" x="231.6436934148317" y="48" width="81.87153699609482" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 6.91% (198 198 0.04747641896809682 1.5854632518525373)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="232.55666904785107" y="24" width="72.09635313593576" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 6.09% (395 395 0.0012812141298954856 1.398448561982425)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="232.55666904785107" y="0" width="72.02938458018936" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 6.09% (653 2 0.006420161601962777 1.3971673478525295)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="305.7644746713747" y="24" width="2.1572901223925336" height="23"><g>
+    <title>~:0:&lt;built-in method torch.matmul&gt; 0.26% (395 395 0.06040394140060719 0.06040394140060719)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.matmul&gt;</text>
+</g></svg>
+<svg class="func_g" x="314.5152304109265" y="48" width="150.73213174986137" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 12.64% (198 198 0.02938139794024545 2.9028750730904034)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="314.9054446192721" y="24" width="148.71615659918442" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 12.48% (593 593 0.0021459121629761294 2.864306287788439)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="314.9054446192721" y="0" width="148.6039906193065" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 12.47% (1337 4 0.013151990826648982 2.8621603756254625)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="466.2473621607878" y="48" width="238.39921631746387" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 19.95% (198 198 0.02245539797767492 4.580084716077142)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="466.2473621607878" y="24" width="237.0753820942292" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 19.84% (988 988 0.0027170664517775474 4.554757678730384)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="466.2473621607878" y="0" width="236.9333621056131" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 19.83% (2127 6 0.020917205368737913 4.552040612278606)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="705.6465784782516" y="48" width="239.3305193632507" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 20.03% (6 6 0.004001578291540293 4.597902012690127)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="705.6491622041221" y="24" width="238.94882307496536" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 20.00% (210 210 0.001491721686981762 4.590599560480589)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="705.6491622041221" y="0" width="238.87085137248275" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 19.99% (2144 6 0.021087533987373782 4.589107838793607)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="945.9770978415023" y="48" width="245.7027441043357" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 20.56% (6 6 0.0002586450578150909 4.719812725653154)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="945.9770978415023" y="24" width="245.65149327001768" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 20.55% (12 12 5.802548561004163e-05 4.718832216332543)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="945.9770978415023" y="0" width="245.64846030083856" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 20.55% (2205 6 0.021683367361091603 4.718774190846933)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="0.22080876230211363" y="216" width="8.113341901949699" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/intel_extension_for_transformers/llm/quantization/nn/modules.py:95:forward 0.76% (3870 3870 0.17435260900000002 20.934742694)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="0.22080876230211363" y="240" width="8.113341901949699" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.76% (3870 3870 0.17435260900000002 20.934742694)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="0.22080876230211363" y="264" width="8.113341901949699" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="0.22080876230211363" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="0.22080876230211363" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="0.22080876230211363" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="3.8040378193036677" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="3.8040378193036677" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="3.8040378193036677" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="5.620927120065188" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="5.620927120065188" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="5.620927120065188" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="7.451812157863211" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="7.451812157863211" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="7.451812157863211" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="10.629502952834946" y="216" width="1.4640984480813" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/functional.py:1249:dropout 0.21% (2880 2880 0.047142091000000004 0.084969268)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">dropout</text>
+</g></svg>
+<svg class="func_g" x="14.97661792489074" y="216" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.16% (30 10710 0.037642008000000005 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="16.944150792608973" y="216" width="4.505559472027722" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.46% (30 10710 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="16.944150792608973" y="240" width="4.505559472027722" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="22.449710264636693" y="216" width="1.6447889299816798" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1682:__getattr__ 0.22% (33060 33060 0.050598985000000006 0.050598985000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(230, 230, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__getattr__</text>
+</g></svg>
+<svg class="func_g" x="26.739622688355833" y="216" width="11.05151557408283" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="26.739622688355833" y="240" width="11.05151557408283" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="26.739622688355833" y="264" width="11.05151557408283" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="26.739622688355833" y="288" width="1.4898471125812924" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="26.739622688355833" y="312" width="1.4898471125812924" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="26.739622688355833" y="336" width="1.4898471125812924" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="29.967159450504678" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.05% (2880 2880 0.010421409000000001 13.91021862)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="29.967159450504678" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="29.967159450504678" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="31.478097470775854" y="288" width="1.4026608394695979" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="31.478097470775854" y="312" width="1.4026608394695979" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="31.478097470775854" y="336" width="1.4026608394695979" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="33.88075831024545" y="288" width="1.4211688516434964" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="33.88075831024545" y="312" width="1.4211688516434964" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="33.88075831024545" y="336" width="1.4211688516434964" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="36.30192716188895" y="288" width="1.4892111005497157" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="36.30192716188895" y="312" width="1.4892111005497157" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="36.30192716188895" y="336" width="1.4892111005497157" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="38.791138262438665" y="216" width="6.458236795473868" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="38.791138262438665" y="240" width="6.458236795473868" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="38.791138262438665" y="264" width="6.458236795473868" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="38.791138262438665" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="38.791138262438665" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="38.791138262438665" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="41.72360486876918" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="41.72360486876918" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="41.72360486876918" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="43.210522706598056" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="43.210522706598056" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="43.210522706598056" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="44.70889446792377" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="44.70889446792377" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="44.70889446792377" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="46.24937505791253" y="216" width="4.700126174891782" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="46.24937505791253" y="240" width="4.700126174891783" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="46.24937505791253" y="264" width="4.700126174891783" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="216" width="14.242019507080926" height="23"><g>
+    <title>~:0:&lt;built-in method torch._C._nn.gelu&gt; 1.27% (960 960 0.291603881 0.291603881)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._C._nn.gelu&gt;</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="240" width="14.242019507080926" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/activation.py:681:forward 1.27% (960 960 0.291603881 0.291603881)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="264" width="14.242019507080926" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.02% (960 960 0.0049614970000000005 0.29656537800000005)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="288" width="14.242019507080926" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="312" width="2.1490062827638465" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="336" width="2.1490062827638465" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="56.215173104777854" y="360" width="2.1490062827638465" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="60.297164119608155" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.05% (2880 2880 0.010421409000000001 13.91021862)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="60.297164119608155" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="60.297164119608155" y="360" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="62.20810607851743" y="312" width="2.0387384191620295" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="62.20810607851743" y="336" width="2.0387384191620295" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="62.20810607851743" y="360" width="2.03873841916203" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="65.24684449767946" y="312" width="2.0621462205176138" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="65.24684449767946" y="336" width="2.0621462205176138" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="65.24684449767946" y="360" width="2.0621462205176138" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="68.30899071819707" y="312" width="2.1482018936617093" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="68.30899071819707" y="336" width="2.1482018936617093" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="68.30899071819707" y="360" width="2.1482018936617093" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="216" width="1060.7523941840432" height="23"><g>
+    <title>~:0:&lt;built-in method torch._ops.weight_only_jblasop.qbits_linear&gt; 88.48% (3870 3870 20.312998462000003 20.312998462000003)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._ops.weight_only_jblasop.qbits_linear&gt;</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="240" width="1060.7523941840432" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/_ops.py:687:__call__ 88.48% (3870 3870 20.312998462000003 20.312998462000003)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__call__</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="264" width="1060.7523941840432" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/intel_extension_for_transformers/llm/quantization/nn/modules.py:95:forward 0.05% (3870 3870 0.011457756000000001 20.324456218)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="288" width="1060.7523941840432" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.76% (3870 3870 0.17435260900000002 20.934742694)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="312" width="1060.7523941840432" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="336" width="218.35839660038803" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="360" width="218.35839660038803" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="71.4578445183651" y="384" width="218.35839660038803" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="290.8162411187531" y="336" width="63.99130725744814" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.03% (1920 1920 0.006222089 6.79142636)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="290.8162411187531" y="360" width="63.99130725744814" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="290.8162411187531" y="384" width="63.99130725744814" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="355.8075483762012" y="336" width="132.11537877747028" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.05% (2880 2880 0.010421409000000001 13.91021862)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="355.8075483762012" y="360" width="132.11537877747028" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="355.8075483762012" y="384" width="132.11537877747028" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="488.9229271536715" y="336" width="210.67718558196634" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="488.9229271536715" y="360" width="210.67718558196634" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="488.9229271536715" y="384" width="210.67718558196634" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="700.6001127356379" y="336" width="212.30776275845724" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="700.6001127356379" y="360" width="212.30776275845724" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="700.6001127356379" y="384" width="212.30776275845724" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="913.9078754940952" y="336" width="218.30236320831338" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="913.9078754940952" y="360" width="218.30236320831338" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="913.9078754940952" y="384" width="218.30236320831338" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1133.7006073030107" y="216" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method torch.dropout&gt; 0.11% (2880 2880 0.024353315 0.024353315)</title>
+    <rect height="100%" width="100%" fill="rgb(230, 230, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.dropout&gt;</text>
+</g></svg>
+<svg class="func_g" x="1133.7006073030107" y="240" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/functional.py:1249:dropout 0.11% (2880 2880 0.024353315 0.024353315)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">dropout</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="216" width="8.706019628718565" height="23"><g>
+    <title>~:0:&lt;built-in method torch.layer_norm&gt; 0.81% (1950 1950 0.185691469 0.185691469)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.layer_norm&gt;</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="240" width="8.706019628718565" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/functional.py:2528:layer_norm 0.81% (1950 1950 0.185691469 0.185691469)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">layer_norm</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="264" width="8.706019628718565" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/normalization.py:195:forward 0.09% (1950 1950 0.021539808 0.216718818)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="288" width="8.706019628718565" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.07% (1950 1950 0.015383901 0.23613018800000002)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="312" width="8.706019628718565" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="336" width="1.0052668727569092" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="360" width="1.0052668727569092" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="1135.2305878623388" y="384" width="1.0052668727569092" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="1137.8299733896824" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.05% (2880 2880 0.010421409000000001 13.91021862)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1137.8299733896824" y="360" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1137.8299733896824" y="384" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1139.046848893214" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1139.046848893214" y="360" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1139.046848893214" y="384" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1140.981897902253" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1140.981897902253" y="360" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1140.981897902253" y="384" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1142.931852848088" y="336" width="1.004754642969325" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1142.931852848088" y="360" width="1.004754642969325" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1142.931852848088" y="384" width="1.004754642969325" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="216" width="14.333065474347963" height="23"><g>
+    <title>~:0:&lt;built-in method torch.matmul&gt; 1.28% (1920 1920 0.293345734 0.293345734)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.matmul&gt;</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="240" width="14.333065474347963" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 1.28% (1920 1920 0.293345734 0.293345734)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="264" width="14.333065474347963" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="288" width="14.333065474347963" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="312" width="2.1678164097821866" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="336" width="2.1678164097821866" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="1144.9366074910577" y="360" width="2.1678164097821866" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="1149.0429816803187" y="312" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.05% (2880 2880 0.010421409000000001 13.91021862)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1149.0429816803187" y="336" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1149.0429816803187" y="360" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1150.9653383706525" y="312" width="2.056889877275279" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1150.9653383706525" y="336" width="2.056889877275279" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1150.9653383706525" y="360" width="2.056889877275279" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1154.0222282479276" y="312" width="2.0804375016979466" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1154.0222282479276" y="336" width="2.0804375016979466" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1154.0222282479276" y="360" width="2.0804375016979466" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1157.1026657496257" y="312" width="2.1670072157797655" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1157.1026657496257" y="336" width="2.1670072157797655" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1157.1026657496257" y="360" width="2.1670072157797655" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="216" width="15.881261049963438" height="23"><g>
+    <title>~:0:&lt;built-in method torch.zeros&gt; 1.41% (3870 3870 0.32296515800000003 0.32296515800000003)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.zeros&gt;</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="240" width="15.881261049963438" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/intel_extension_for_transformers/llm/quantization/nn/modules.py:95:forward 1.41% (3870 3870 0.32296515800000003 0.32296515800000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="264" width="15.881261049963438" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.76% (3870 3870 0.17435260900000002 20.934742694)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="288" width="15.881261049963438" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="312" width="2.4876741289181203" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:2276:greedy_search 0.00% (30 30 0.000278347 22.922394699)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">greedy_search</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="336" width="2.4876741289181203" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/generation/utils.py:1294:generate 0.02% (1 1 0.00411363 22.951299376)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">generate</text>
+</g></svg>
+<svg class="func_g" x="1160.3330758910272" y="360" width="2.4876741289181203" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/utils/_contextlib.py:112:decorate_context 0.00% (1 1 0.000303758 22.958028852)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">decorate_context</text>
+</g></svg>
+<svg class="func_g" x="1164.8540749550255" y="312" width="1.1164590456461156" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:195:forward 0.05% (2880 2880 0.010421409000000001 13.91021862)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1164.8540749550255" y="336" width="1.1164590456461156" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.62% (960 960 0.142687837 14.09752409)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1164.8540749550255" y="360" width="1.1164590456461156" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1166.9705340006717" y="312" width="2.365547229000478" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:227:forward 0.06% (4800 4800 0.013195163000000001 22.119727678)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1166.9705340006717" y="336" width="2.365547229000478" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.48% (960 960 0.109052407 22.242725916)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1166.9705340006717" y="360" width="2.365547229000478" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1170.3360812296721" y="312" width="2.3914724815633503" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:450:forward 0.03% (1020 1020 0.007243205000000001 22.290118847000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1170.3360812296721" y="336" width="2.3914724815633503" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.08% (30 30 0.019433267 22.329253845)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1170.3360812296721" y="360" width="2.3914724815633503" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1173.7275537112355" y="312" width="2.4867832297552757" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:627:forward 0.00% (60 60 0.000281795 22.916539352)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1173.7275537112355" y="336" width="2.4867832297552757" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.01% (30 30 0.001256084 22.921301098)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1173.7275537112355" y="360" width="2.4867832297552757" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1177.2186557170558" y="216" width="1.3261717680711418" height="23"><g>
+    <title>~:0:&lt;method 'chunk' of 'torch._C._TensorBase' objects&gt; 0.19% (960 960 0.044503336000000004 0.044503336000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'chunk' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1177.2186557170558" y="240" width="1.3261717680711418" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.19% (960 960 0.044503336000000004 0.044503336000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1177.2186557170558" y="264" width="1.3261717680711418" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1177.2186557170558" y="288" width="1.3261717680711418" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1179.5448274851267" y="216" width="2.9366998923490386" height="23"><g>
+    <title>~:0:&lt;method 'contiguous' of 'torch._C._TensorBase' objects&gt; 0.33% (960 960 0.07531528 0.07531528)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'contiguous' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1179.5448274851267" y="240" width="2.9366998923490386" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.33% (960 960 0.07531528 0.07531528)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1179.5448274851267" y="264" width="2.9366998923490386" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1179.5448274851267" y="288" width="2.9366998923490386" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1183.9312373345062" y="216" width="3.2567886004328015" height="23"><g>
+    <title>~:0:&lt;method 'masked_fill' of 'torch._C._TensorBase' objects&gt; 0.35% (960 960 0.08143908200000001 0.08143908200000001)</title>
+    <rect height="100%" width="100%" fill="rgb(230, 230, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'masked_fill' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1183.9312373345062" y="240" width="3.2567886004328015" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.35% (960 960 0.08143908200000001 0.08143908200000001)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1183.9312373345062" y="264" width="3.2567886004328015" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1183.9312373345062" y="288" width="3.2567886004328015" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1189.034254104218" y="216" width="1" height="23"><g>
+    <title>~:0:&lt;method 'reshape' of 'torch._C._TensorBase' objects&gt; 0.14% (2880 2880 0.032393841 0.032393841)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'reshape' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1189.034254104218" y="240" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.14% (2880 2880 0.032393841 0.032393841)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1189.034254104218" y="264" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1189.034254104218" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1191.3312076861146" y="216" width="1.7547316659865029" height="23"><g>
+    <title>~:0:&lt;method 'softmax' of 'torch._C._TensorBase' objects&gt; 0.23% (960 960 0.052702363 0.052702363)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'softmax' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1191.3312076861146" y="240" width="1.7547316659865029" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/functional.py:1826:softmax 0.23% (960 960 0.052702363 0.052702363)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">softmax</text>
+</g></svg>
+<svg class="func_g" x="1191.3312076861146" y="264" width="1.7547316659865029" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.02% (960 960 0.004230028 0.057557117000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1191.3312076861146" y="288" width="1.7547316659865029" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1191.3312076861146" y="312" width="1.7547316659865029" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1194.342253706754" y="216" width="1" height="23"><g>
+    <title>~:0:&lt;method 'transpose' of 'torch._C._TensorBase' objects&gt; 0.11% (3840 3840 0.024664959 0.024664959)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'transpose' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1194.342253706754" y="240" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/transformers/models/mpt/modeling_mpt.py:132:forward 0.11% (3840 3840 0.024664959 0.024664959)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1194.342253706754" y="264" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 1.00% (960 960 0.230564507 7.699644602)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1194.342253706754" y="288" width="1" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1195.637506839898" y="216" width="3.3616899330913563" height="23"><g>
+    <title>~:0:&lt;method 'view' of 'torch._C._TensorBase' objects&gt; 0.36% (8760 8760 0.08344601 0.08344601)</title>
+    <rect height="100%" width="100%" fill="rgb(230, 230, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'view' of 'torch._C._TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1195.637506839898" y="240" width="2.999431258093184" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/intel_extension_for_transformers/llm/quantization/nn/modules.py:95:forward 0.33% (7740 7740 0.07651543000000001 0.07651543000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="1195.637506839898" y="264" width="2.999431258093184" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1520:_call_impl 0.76% (3870 3870 0.17435260900000002 20.934742694)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="1195.637506839898" y="288" width="2.999431258093184" height="23"><g>
+    <title>/opt/conda/envs/neuralchat/lib/python3.10/site-packages/torch/nn/modules/module.py:1514:_wrapped_call_impl 0.46% (10710 30 0.105330039 22.922116352)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+</svg>
